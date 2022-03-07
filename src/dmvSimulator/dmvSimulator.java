@@ -24,7 +24,14 @@ public class dmvSimulator {
 					count++;
 				}
 			}
+			
+			int addMiracle = (int)(Math.random() * 100);
+			if (addMiracle == 1) {
+				System.out.println("Your number has been called and you have the required paperwork. You are all set!");
+			}
+			else {
 			System.out.println("Your number has been called! You don't have the required paperwork so you will not be helped! Mwah! Ha! Ha!");
+			}
 	}
 }
 	
