@@ -30,7 +30,7 @@ public class dmvSimulator {
 				System.out.println("Your number has been called and you have the required paperwork. You are all set!");
 			}
 			else {
-			System.out.println("Your number has been called! You don't have the required paperwork so you will not be helped!");
+			System.out.println("Your number has been called! You don't have the required paperwork so you will not be helped! Mwah! Ha! Ha!");
 			}
 	}
 }
