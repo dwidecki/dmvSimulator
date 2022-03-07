@@ -24,7 +24,7 @@ public class dmvSimulator {
 					count++;
 				}
 			}
-			System.out.println("Your number has been called! You don't have the required paperwork so you will not be helped!");
+			System.out.println("Your number has been called! You don't have the required paperwork so you will not be helped! Mwah! Ha! Ha!");
 	}
 }
 	
